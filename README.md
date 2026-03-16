@@ -1,56 +1,102 @@
-# Video-Game-Sale
-AI Seminar Audit Analytics Dashboard – Dynamic Excel Dashboard
-Project Overview
-This project focuses on analyzing and auditing AI seminar operations using a dynamic, interactive Excel dashboard. The dashboard is designed to provide management and audit teams with a real-time operational overview of seminar compliance, student participation, and infrastructure readiness across multiple locations.
+# Video Game Sales Analytics Dashboard – Excel
 
-Dashboard Objective
-The primary goal of this dashboard is to monitor seminar effectiveness and compliance by tracking student attendance, infrastructure availability, and operational issues across different zones and seminar types.
+## Project Overview
+This project presents an **interactive Video Game Sales Dashboard** built in **Microsoft Excel** to analyze global video game performance across **titles, genres, consoles, and years**.  
 
-Key Metrics & KPIs
-The dashboard highlights critical audit metrics, including:
+The dashboard converts **raw sales data into meaningful business insights**, helping stakeholders understand **market trends, platform dominance, and top-performing games**.
 
-Total Venue Count to understand seminar coverage
-Shift-wise Student Count (Shift 1, Shift 2, Shift 3) to analyze participation patterns
-Attendance Percentage to measure seminar engagement and turnout
-Network Compliance to track internet/network availability and issues
-Power Compliance to monitor power-related readiness and disruptions
+---
 
-All KPIs update dynamically based on selected filters.
+## Dashboard Objectives
+- Analyze **total video game sales** across multiple dimensions  
+- Identify **best-selling game titles and consoles**  
+- Understand **genre-wise sales contribution**  
+- Track **year-over-year sales trends**
 
-Dynamic Analysis & Filters
-The dashboard enables flexible analysis through interactive slicers:
+---
 
-Zone-wise filtering (Central, East, North, South, West, Headquarters, etc.)
-Type-wise filtering (Owned, Rented, Vendor venues)
+## Key Metrics & Insights
 
-These filters allow stakeholders to instantly compare performance and compliance across different regions and venue types.
+### 1. Total Sales by Game Title
+- Displays **top-selling video game titles** in a ranked **bar chart**
+- Highlights best-performing games such as **Grand Theft Auto V**
+- Enables quick comparison of **sales volume across popular franchises**
 
-Visual Insights & Reporting
-The dashboard presents insights through intuitive visuals, including:
+---
 
-Shift-wise student distribution to identify peak seminar timings
-Daily student count trends to observe participation fluctuations
-Compliance breakdown charts showing power and network issues
-Attendance performance indicators for quick audit assessment
+### 2. Console-wise Sales Distribution
+A **pie chart** visualizes total sales across major gaming platforms:
 
-Each visual is fully interconnected, ensuring a seamless drill-down experience.
+- **PS4**
+- **PS3**
+- **Xbox One**
+- **Xbox 360**
+- **PC**
 
-Business Value & Impact
+This helps identify **platform dominance and market share**.
 
-Enables quick identification of compliance gaps related to power and network issues
-Helps optimize seminar scheduling and resource allocation based on shift-wise attendance
-Supports zone-level audit reviews and decision-making
-Reduces manual reporting through a fully automated, refreshable dashboard
+---
 
+### 3. Best Game Performance
+A dedicated **KPI section** highlights:
 
-Tools & Techniques Used
+- **Best-selling game**
+- **Total sales value**
+- **Platform-wise contribution**
 
-Microsoft Excel
-Advanced Pivot Tables & Pivot Charts
-Dynamic slicers and filters
-Data modeling for audit reporting
-KPI cards and performance indicators
+Provides a **quick executive-level summary** of top performance.
 
+---
 
-Outcome
-This dashboard transforms raw audit data into actionable insights, helping stakeholders ensure smooth AI seminar execution, improve infrastructure compliance, and enhance overall student participation through data-driven decisions.
+### 4. Genre-wise Sales Analysis
+A **horizontal bar chart** showing total sales by genre, including:
+
+- **Shooter**
+- **Sports**
+- **Action**
+- **Role-Playing**
+- **Adventure**
+
+The visualization clearly identifies **Shooter and Sports genres** as **major revenue drivers**.
+
+---
+
+### 5. Sales Trend by Year
+A **combined column and line chart** displaying:
+
+- **Total sales by year**
+- **Trend movement over time (2011–2020)**
+
+This helps analyze **market growth, peak years, and decline patterns**.
+
+---
+
+## Interactivity & Design
+- **Clean, visually appealing layout** with consistent color themes  
+- **Intuitive chart placement** for easy data interpretation  
+- Designed for **quick insights and storytelling** rather than static reporting
+
+---
+
+## Business Value & Use Case
+This dashboard enables **publishers and analysts** to:
+
+- Identify **high-revenue titles and genres**
+- Understand **console market performance**
+- Analyze **historical sales trends for forecasting**
+
+It demonstrates how **Excel can be used as a powerful analytics and visualization tool** for **business decision-making**.
+
+---
+
+## Tools & Techniques Used
+- **Microsoft Excel**
+- **Pivot Tables & Pivot Charts**
+- **Data aggregation and sorting**
+- **KPI cards and comparative visualizations**
+- **Dashboard layout and visual storytelling principles**
+
+---
+
+## Outcome
+This project showcases strong skills in **data analysis, visualization, and dashboard design**, delivering a **comprehensive sales overview** that supports **strategic insights in the gaming industry**.
